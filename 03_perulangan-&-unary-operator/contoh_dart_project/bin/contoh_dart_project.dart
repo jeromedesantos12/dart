@@ -17,7 +17,7 @@ import 'dart:io';
 
 //   print("========");
 
-//   int x = 5; // kalo salah jalan dulu 1 kali
+//   int x = 5; // kalo salah, jalan dulu 1 kali
 //   do {
 //     print("dododo ke " + x.toString());
 //     x += 1;
